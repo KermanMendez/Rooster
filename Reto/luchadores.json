@@ -1,0 +1,146 @@
+[
+    {
+      "name": "Ryu",
+      "age": 29,
+      "nationality": "Japan",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "style": "Ansatsuken (Shotokan-based)",
+      "description": "Un luchador disciplinado que busca constantemente la perfección. Especialista en hadokens y shoryukens."
+    },
+    {
+      "name": "Ken",
+      "age": 29,
+      "nationality": "USA",
+      "height": "175 cm",
+      "weight": "75 kg",
+      "style": "Ansatsuken (Shotokan-based)",
+      "description": "Mejor amigo y rival de Ryu, Ken es un peleador más agresivo y carismático con una inclinación por el espectáculo."
+    },
+    {
+      "name": "Chun-Li",
+      "age": 27,
+      "nationality": "China",
+      "height": "169 cm",
+      "weight": "50 kg",
+      "style": "Chinese Martial Arts (Wu Shu)",
+      "description": "Primera luchadora femenina de la saga, agente de Interpol que busca vengar la muerte de su padre."
+    },
+    {
+      "name": "Guile",
+      "age": 32,
+      "nationality": "USA",
+      "height": "182 cm",
+      "weight": "86 kg",
+      "style": "Military Martial Arts (based on kickboxing and wrestling)",
+      "description": "Soldado americano en busca de justicia contra M. Bison, maestro del Sonic Boom."
+    },
+    {
+      "name": "E. Honda",
+      "age": 35,
+      "nationality": "Japan",
+      "height": "185 cm",
+      "weight": "137 kg",
+      "style": "Sumo",
+      "description": "Luchador de sumo que busca demostrar que su arte es respetable a nivel mundial."
+    },
+    {
+      "name": "Blanka",
+      "age": 30,
+      "nationality": "Brazil",
+      "height": "192 cm",
+      "weight": "98 kg",
+      "style": "Savage fighting / Electric attacks",
+      "description": "Criado en la selva brasileña, Blanka combina movimientos salvajes con descargas eléctricas."
+    },
+    {
+      "name": "Zangief",
+      "age": 38,
+      "nationality": "Russia",
+      "height": "214 cm",
+      "weight": "121 kg",
+      "style": "Sambo / Wrestling",
+      "description": "Luchador profesional ruso con poderosos agarres, orgulloso representante de su país."
+    },
+    {
+      "name": "Dhalsim",
+      "age": 45,
+      "nationality": "India",
+      "height": "176 cm (can stretch)",
+      "weight": "48 kg",
+      "style": "Yoga-based fighting",
+      "description": "Un sabio luchador espiritual que utiliza técnicas de yoga para estirar su cuerpo y lanzar fuego."
+    },
+    {
+      "name": "Balrog",
+      "age": 33,
+      "nationality": "USA",
+      "height": "190 cm",
+      "weight": "102 kg",
+      "style": "Boxeo",
+      "description": "Ex boxeador profesional expulsado por su brutalidad, trabaja para Shadaloo como matón."
+    },
+    {
+      "name": "Vega",
+      "age": 28,
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "72 kg",
+      "style": "Spanish Ninjutsu / Claw fighting",
+      "description": "Narcisista y ágil, mezcla técnicas ninja con el estilo de toreador. Usa una garra y máscara."
+    },
+    {
+      "name": "Sagat",
+      "age": 40,
+      "nationality": "Thailand",
+      "height": "226 cm",
+      "weight": "109 kg",
+      "style": "Muay Thai",
+      "description": "Ex campeón mundial de Muay Thai y rival de Ryu. Se une a Shadaloo buscando revancha."
+    },
+    {
+      "name": "M. Bison",
+      "age": 48,
+      "nationality": "Unknown (Shadaloo)",
+      "height": "182 cm",
+      "weight": "96 kg",
+      "style": "Psycho Power-based martial arts",
+      "description": "Líder de la organización criminal Shadaloo. Maestro del Psycho Power y enemigo principal."
+    },
+    {
+      "name": "Cammy",
+      "age": 19,
+      "nationality": "United Kingdom",
+      "height": "164 cm",
+      "weight": "46 kg",
+      "style": "Delta Red Special Forces",
+      "description": "Agente de fuerzas especiales británicas. Tiene un pasado misterioso relacionado con Shadaloo."
+    },
+    {
+      "name": "T. Hawk",
+      "age": 35,
+      "nationality": "Mexico (Thunderfoot Tribe)",
+      "height": "230 cm",
+      "weight": "162 kg",
+      "style": "Thunderfoot martial arts / Wrestling",
+      "description": "Orgulloso guerrero indígena que lucha por su tierra y su gente."
+    },
+    {
+      "name": "Fei Long",
+      "age": 25,
+      "nationality": "Hong Kong",
+      "height": "172 cm",
+      "weight": "60 kg",
+      "style": "Kung Fu (Jeet Kune Do-inspired)",
+      "description": "Estrella de cine de acción inspirado en Bruce Lee, entra al torneo para probar su habilidad real."
+    },
+    {
+      "name": "Dee Jay",
+      "age": 27,
+      "nationality": "Jamaica",
+      "height": "184 cm",
+      "weight": "92 kg",
+      "style": "Kickboxing / Capoeira-inspired",
+      "description": "Músico y luchador optimista que disfruta del ritmo tanto como de las peleas."
+    }
+  ]
